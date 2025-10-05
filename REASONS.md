@@ -22,8 +22,8 @@
 ## 3️⃣ Current Deliverables
 <details>
 <summary>Details</summary>
-- **Demo Folder:** Streamlit app running the 87% confidence model (submitted via YouTube for judging)
-- **Src Folder:** Main model with frontend code
+- **Demo Folder:** Streamlit application utilizing the 87% confidence model (submitted through YouTube for evaluation)
+- **Src Folder:** Primary model including frontend code
 </details>
 
 ## 4️⃣ Next Steps / Planned Improvements
