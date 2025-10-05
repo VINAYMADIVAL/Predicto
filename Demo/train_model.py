@@ -13,7 +13,7 @@ print("="*50)
 os.makedirs('models', exist_ok=True)
 
 print("\n📂 Loading dataset...")
-df = pd.read_csv("powergrid_material_demand_latest.csv")
+df = pd.read_csv("training_data.csv")
 print(f"✅ Loaded {len(df)} projects")
 
 print("\n🔄 Encoding categorical variables...")

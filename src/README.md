@@ -58,7 +58,7 @@ uvicorn main:app --reload
 * Configure `.env` with PostgreSQL & JWT
 * Ensure CSV dataset is in project root
 
-*Frontend (optional):*
+*Frontend:*
 
 ```bash
 cd <frontend-folder>
