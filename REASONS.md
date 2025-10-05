@@ -20,10 +20,13 @@
 - Hackathon deadline limited further development and refinements
 
 ## 3️⃣ Current Deliverables
+
 <details>
 <summary>Details</summary>
-- Demo Folder: Streamlit application utilizing the 87% confidence model [Youtube Submission]
+
+- Demo Folder: Streamlit application utilizing the 87% confidence model [YouTube Submission]
 - Src Folder: Primary model including frontend code
+
 </details>
 
 ## 4️⃣ Next Steps / Planned Improvements
