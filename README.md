@@ -65,7 +65,7 @@ Predicto leverages advanced machine learning and time-series forecasting to pred
 ---
 
 ### Folder structure
-
+```
 Predicto/
 │
 ├── Demo/                          # ✅ FULLY FUNCTIONAL
@@ -80,7 +80,7 @@ Predicto/
 ├── REASONS.md                     # Project motivation & impact
 ├── RESEARCH.md                    # Research findings & methodology
 └── README.md                      # You are here!
-
+```
 
 ### 📦 Current Status
 
