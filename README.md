@@ -64,6 +64,23 @@ Predicto leverages advanced machine learning and time-series forecasting to pred
 
 ---
 
+### Folder structure
+
+Predicto/
+│
+├── Demo/                          # ✅ FULLY FUNCTIONAL
+│   ├── EDA and Models/            # Exploratory data analysis folder
+│   ├── models/                    # ML models & training scripts
+│
+├── src/                          
+│   ├── predicto_frontend/         # Custom UI (HTML/CSS/JS)
+│       ├── src/                   # TypeScript source
+│       ├── public/                # Images and other non JSX files
+│
+├── REASONS.md                     # Project motivation & impact
+├── RESEARCH.md                    # Research findings & methodology
+└── README.md                      # You are here!
+
 
 ### 📦 Current Status
 
