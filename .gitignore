@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment
+.env
+*.log
+
+# Data files
+*.csv
+*.xlsx
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
