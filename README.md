@@ -202,15 +202,10 @@ Frontend runs at `http://localhost:5173`
 - ✅ Visualize predictions with interactive charts
 - ✅ Download forecast reports as Excel
 
-### Screenshots
+### Dashboard Screenshots
+![Screenshot 2025-10-05 115001](https://github.com/user-attachments/assets/da7329d9-c641-4e60-a7ab-5d3d3877bb6f)
 
-> **Note:** Add screenshots of your demo application here
 
-```markdown
-![Landing Page](assets/screenshots/landing.png)
-![Dashboard](assets/screenshots/dashboard.png)
-![Predictions](assets/screenshots/predictions.png)
-```
 
 ---
 
