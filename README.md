@@ -88,7 +88,7 @@ Predicto/
 |-----------|--------|-------------|
 | **Demo** | ✅ Production Ready | Fully functional Streamlit app with working ML model |
 | **src/backend** | ✅ Complete | Enhanced models with better confidence scores |
-| **src/frontend** | ✅ Complete | Custom responsive UI with Tailwind CSS |
+| **src/predicto_frontend** | ✅ Complete | Custom responsive UI with Tailwind CSS |
 | **Integration** | 🚧 In Progress | Backend + Frontend integration underway |
 
 ---
@@ -122,7 +122,7 @@ streamlit run app.py
 
 Visit `http://localhost:8501` to access the demo application.
 
-### Option 2: Run Advanced Version (src)
+### Option 2: Run Advanced Version (src) [In Progress]
 
 #### Backend Setup
 
