@@ -96,7 +96,7 @@ forecast_system = PowerGridForecastSystem()
 def initialize_forecast_model():
     """Train or load model at startup"""
     try:
-        df = pd.read_csv("boosted_powergrid_material_demand.csv")
+        df = pd.read_csv("training_data.csv")
         forecast_system.train(df)
         logger.info("✅ Forecast system initialized successfully.")
     except Exception as e:
