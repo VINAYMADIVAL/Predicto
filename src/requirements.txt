@@ -1,0 +1,21 @@
+fastapi==0.109.1
+uvicorn[standard]==0.23.2
+jinja2==3.1.2
+pydantic==1.10.11
+python-jose==3.3.0
+passlib[bcrypt]==1.7.4
+bcrypt==4.0.1
+sqlalchemy==2.0.21
+psycopg2-binary==2.9.7
+python-dotenv==1.0.0
+matplotlib==3.8.1
+numpy==1.26.4
+pandas==2.1.1
+scikit-learn==1.3.1
+PyJWT==2.8.0
+
+🔽 New (needed for model.py)
+statsmodels==0.14.0
+openpyxl==3.1.2
+xlsxwriter==3.1.9
+seaborn==0.13.2
